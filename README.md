@@ -202,6 +202,7 @@ Integrating CapSolver with BrowserCloud creates a powerful combination for autom
 To get started, sign up for [BrowserCloud](https://browsercloud.io/) and [CapSolver](https://www.capsolver.com/?utm_source=blog&utm_medium=integration&utm_campaign=browsercloud-io), obtain your API keys, and implement the provided code example. Explore the [CapSolver documentation](https://docs.capsolver.com/?utm_source=blog&utm_medium=integration&utm_campaign=browsercloud-io) and [BrowserCloud documentation](https://browsercloud.io/docs) for advanced features and additional task types. Try this integration in your next automation project and experience seamless, uninterrupted workflows!
 
 Bonus for Browser-use Users: Use the promo code BROWSERCLOUD when recharging your CapSolver account and receive an exclusive 6% bonus credit—no limits, no expiration.
+
 <img width="531" height="245" alt="image" src="https://github.com/user-attachments/assets/c18b4fe2-c019-44fa-ae21-42b70dc09141" />
 
 
